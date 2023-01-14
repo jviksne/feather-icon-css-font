@@ -1,4 +1,4 @@
-# feathericoncssfont
+# Feather icon CSS font
 The excellent Feather icons (https://feathericons.com/, https://github.com/feathericons/feather) converted to CSS Web Font using https://github.com/jviksne/svg2cssfont FontForge https://fontforge.org/ (consider donation https://fontforge.org/en-US/donate/ ) Python script.
 
 Feather icon version: 4.29.0 (2022-03-29).
