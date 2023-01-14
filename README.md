@@ -1,7 +1,10 @@
 # Feather icon CSS font
-The excellent Feather icons (https://feathericons.com/, https://github.com/feathericons/feather) converted to CSS Web Font using https://github.com/jviksne/svg2cssfont FontForge https://fontforge.org/ (consider donation https://fontforge.org/en-US/donate/ ) Python script.
+The excellent Feather icons converted to CSS Web Font with FontForge via https://github.com/jviksne/svg2cssfont.
 
 Feather icon version: 4.29.0 (2022-03-29).
+
+More information about Feather icons: https://feathericons.com/, https://github.com/feathericons/feather.
+More information about FontForge: https://fontforge.org/ (consider donation https://fontforge.org/en-US/donate/).
 
 ## Usage
 1. Upload the feather-icons.min.css (or feather-icons.css), feather-icons.woff and feather-icons.woff2 files to some public directory.
