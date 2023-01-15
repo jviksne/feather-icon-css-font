@@ -9,7 +9,7 @@ More information about Feather icons: https://feathericons.com/, https://github.
 
 More information about FontForge: https://fontforge.org/ (consider donation https://fontforge.org/en-US/donate/).
 
-To regenerate the font for a newer Feather icon version, a smaller set or another set of SVG icons, see https://github.com/jviksne/svg2webfont.
+To regenerate the font from a newer Feather icon version, a smaller set or another set of SVG icons, see https://github.com/jviksne/svg2webfont.
 
 ## Usage
 1. Upload the feather-icons.min.css (or feather-icons.css), feather-icons.woff and feather-icons.woff2 files to some public directory.
