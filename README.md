@@ -3,7 +3,7 @@ The excellent Feather icons converted to CSS Web Font with FontForge.
 
 Feather icon version: 4.29.0 (2022-03-29), 24px size, 2px stroke width.
 
-Preview of all icons: https://jviksne.github.io/feather-icon-css-font/preview.htm.
+Preview of all icons: https://jviksne.github.io/feather-icon-css-font/preview.html.
 
 More information about Feather icons: https://feathericons.com/, https://github.com/feathericons/feather.
 
